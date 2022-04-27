@@ -1,5 +1,5 @@
 Hi 👋 My name is meziane khalil
-===============================web developer-------------Computer Science Engineer - Expert in Web Development with 2+ Years experience. Code/ front end/ back end.* ✉️  You can contact me at [khalilmez2000@gmail.com](mailto:khalilmez2000@gmail.com)* 🧠  I'm learning javascript
+===============================web developer-------------Computer Science Engineer - Expert in Web Development with 2+ Years experience. Code/ front end/ back end. 🧠  I'm learning javascript
 
 ### Skills
 
