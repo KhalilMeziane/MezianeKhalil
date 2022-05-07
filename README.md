@@ -1,5 +1,8 @@
 Hi 👋 My name is meziane khalil
-===============================frontend developer------------------Computer Science Engineer - Expert in Web Development with 2+ Years experience. Code/ front end/ back end.* 🌍  I'm based in algeria
+===============================
+frontend developer
+------------------
+Computer Science Engineer - Expert in Web Development with 2+ Years experience. Code/ front end/ back end.* 🌍  I'm based in algeria
 
 ### Skills
 
