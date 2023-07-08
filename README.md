@@ -3,9 +3,7 @@ Hi 👋 My name is Meziane Khalil
 
 Web Developer | JavaScript Developer | Front-End | Full Stack
 -------------------------------------------------------------
-
-
-I am a full-stack developer specializing in ReactJS and NodeJS with a passion for building scalable, maintainable, and user-friendly web applications. I have experience working with TypeScript, Express, Chakra UI, and Tailwind CSS. My focus on web accessibility ensures that my applications are inclusive and can be used by everyone. With a background in 💻 computer science, I enjoy solving complex problems and creating elegant solutions. I am constantly learning and keeping up with the latest trends and technologies in web development to stay ahead of the game.I am a full-stack developer specializing in ReactJS and NodeJS with a passion for building scalable, maintainable, and user-friendly web applications. I have experience working with TypeScript, Express, Chakra UI, and Tailwind CSS. My focus on web accessibility ensures that my applications are inclusive and can be used by everyone. With a background in 💻 computer science, I enjoy solving complex problems and creating elegant solutions. I am constantly learning and keeping up with the latest trends and technologies in web development to stay ahead of the game.
+I am a results-driven full-stack developer specializing in ReactJS and NodeJS. With expertise in TypeScript, Express, Chakra UI, and Tailwind CSS, I have a proven track record of building scalable, maintainable, and user-friendly web applications. Throughout my career, I have leveraged my skills in problem-solving and my background in computer science to create elegant solutions for complex challenges. I am passionate about web accessibility, ensuring inclusivity for all users. Continual learning is a priority for me, allowing me to stay ahead of the latest trends and technologies in web development. Let's connect and discuss how I can contribute to your team's success.
 
 *   🌍  I'm based in Algeria
 *   ✉️  You can contact me at [khalilmez2000@gmail.com](mailto:khalilmez2000@gmail.com)
