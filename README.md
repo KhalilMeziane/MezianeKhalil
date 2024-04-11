@@ -3,11 +3,11 @@ Hi 👋 My name is Meziane Khalil
 
 Web Developer | JavaScript Developer | Front-End | Full Stack
 -------------------------------------------------------------
-I am a results-driven full-stack developer specializing in ReactJS and NodeJS. With expertise in TypeScript, Express, Chakra UI, and Tailwind CSS, I have a proven track record of building scalable, maintainable, and user-friendly web applications. Throughout my career, I have leveraged my skills in problem-solving and my background in computer science to create elegant solutions for complex challenges. I am passionate about web accessibility, ensuring inclusivity for all users. Continual learning is a priority for me, allowing me to stay ahead of the latest trends and technologies in web development. Let's connect and discuss how I can contribute to your team's success.
+Experienced Full Stack JavaScript Developer specializing in React and Node.js. Proficient in crafting elegant user interfaces using Tailwind CSS alongside Chakra UI, prioritizing accessibility for all users. Dedicated to developing scalable and user-friendly digital solutions that make a meaningful impact. Eager to tackle new challenges and bring creative contributions to projects. Let's connect and discuss how we can collaborate!Experienced Full Stack JavaScript Developer specializing in React and Node.js. Proficient in crafting elegant user interfaces using Tailwind CSS alongside Chakra UI, prioritizing accessibility for all users. Dedicated to developing scalable and user-friendly digital solutions that make a meaningful impact. Eager to tackle new challenges and bring creative contributions to projects. Let's connect and discuss how we can collaborate!
 
 *   🌍  I'm based in Algeria
 *   ✉️  You can contact me at [khalilmez2000@gmail.com](mailto:khalilmez2000@gmail.com)
-*   🧠  I'm learning Graphql-TDD-Typescript
+*   🧠  I'm learning Nest.js-TypeORM-Typescript
 
 ### Skills 
 <p align="left">
